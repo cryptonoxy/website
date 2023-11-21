@@ -1,0 +1,44 @@
+ <!-- Cryptocurrencies section -->
+            <section class="cryptocurrencies-section" id="products">
+                <h2 class="cryptocurrencies-section__title">
+                    Trade securely and market the high growth cryptocurrencies.
+                </h2>
+                <div class="cryptocurrencies-info-cards">
+                    <div class="info-card">
+                        <i class="fab fa-bitcoin"></i>
+                        <h3 class="info-card__title">Bitcoin <span>BTC</span></h3>
+                        <p class="info-card__description">
+                            Digital currency in which a record of transactions is
+                            maintained.
+                        </p>
+                        <a href="#" class="info-card__btn">Start mining <i class="fas fa-angle-right"></i></a>
+                    </div>
+                    <div class="info-card">
+                        <i class="fab fa-ethereum"></i>
+                        <h3 class="info-card__title">Ethereum <span>ETH</span></h3>
+                        <p class="info-card__description">
+                            Blockchain technology to create and run decentralized digital
+                            applications.
+                        </p>
+                        <a href="#" class="info-card__btn">Start mining <i class="fas fa-angle-right"></i></a>
+                    </div>
+                    <div class="info-card">
+                        <img src="./assets/others/litecoin-icon.svg" alt="" class="info-card__icon" />
+                        <h3 class="info-card__title">Litecoin <span>LTC</span></h3>
+                        <p class="info-card__description">
+                            Cryptocurrency that enables instant payments to anyone in the
+                            world.
+                        </p>
+                        <a href="#" class="info-card__btn">Start mining <i class="fas fa-angle-right"></i></a>
+                    </div>
+                                        <div class="info-card">
+                        <img src="./assets/others/litecoin-icon.svg" alt="" class="info-card__icon" />
+                        <h3 class="info-card__title">Litecoin <span>LTC</span></h3>
+                        <p class="info-card__description">
+                            Cryptocurrency that enables instant payments to anyone in the
+                            world.
+                        </p>
+                        <a href="#" class="info-card__btn">Start mining <i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </section>
